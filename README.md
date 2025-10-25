@@ -2,8 +2,6 @@
   Hello I am Sandar Kyaw.
 </h2>
 
- <h1>I’m currently learning on C#.</h1>
-
 <!--
 **sandarkyaw-coding/sandarkyaw-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
