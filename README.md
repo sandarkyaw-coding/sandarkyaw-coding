@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Sandar Kyaw. U can call Neil.</h1>
+<h1 align="center">Hello, I'm Sandar Kyaw (Neil).</h1>
 
 <h3 align="center">Passionate Developer | PHP (Laravel) & C# Learner</h3>
 
@@ -27,7 +27,7 @@ I enjoy building real-world systems and continuously improving my skills in both
   <li>
     <b>Delivery Management System</b><br/>
     Built using <b>PHP (Laravel)</b>, including features like order tracking, pricing, riders, and routes.
-    <a href="https://github.com/sandarkyaw-coding/" target="_blank">
+    <a href="https://github.com/sandarkyaw-coding/ToToPoh_delivery" target="_blank">
     View Repository
   </a>
   </li>
@@ -35,14 +35,15 @@ I enjoy building real-world systems and continuously improving my skills in both
   <li>
     <b>Global Water Consumption Detection</b><br/>
     Developed with <b>Python</b>, focusing on data analysis and prediction using machine learning.
-    <a href="https://github.com/sandarkyaw-coding/memory-game" target="_blank">
+    <a href="https://github.com/sandarkyaw-coding/globalWaterConsumption" target="_blank">
     View Repository
   </a>
   </li>
+  <br/>
   <li>
      <b>Memory Game</b><br/>
   A fun interactive game built to improve memory skills.<br/>
-  <a href="https://github.com/sandarkyaw-coding/memory-game" target="_blank">
+  <a href="https://github.com/sandarkyaw-coding/memoryGame" target="_blank">
     View Repository
   </a>
 </li>
